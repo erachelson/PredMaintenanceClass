@@ -1,0 +1,47 @@
+Selected papers:
+engine 2
+HVAC
+vehicle
+pneumatic valve
+bearing failure (warning, no ML)
+appli iot + rail + rail2 (IBM, Google, Siemens)
+
+Taxonomy
+
+Supervised: fit a function wrt to a criterion
+  Regression : fit a function (fit its parameters) wrt the MSE criterion
+  Classification : fit a function wrt to a cross
+-> collect names of methods
+
+data sources:
+- scalar (voltage, vibrations)
+- time series (temperature, pressure)
+- images (IR thermography)
+what methods for each?
+
+data flow:
+collect, analyse, predict, react
+analyze include: data cleaning, feature selection/engineering, method selection, hyperparameter tuning.
+
+Data properties and quality:
+- amount of data: data is often scarce
+- noise, errors, missing data
+- high-dimensional data
+- class imbalance
+- heterogeneous data (scalars, booleans, time series, images, text)
+
+Besoin de :
+- visualiser données
+- automatiser la détection d'anomalies
+- automatiser la prédiction de RUL / failures
+
+Accuracy criteria : cf taxonomy.
+- Precision, recall, F1, ROC
+
+Instructions: present the use cases you have read. Highlight in particular
+- name of use case
+- nature of data (scalar, time series, images...) and properties of data (volume, cleanliness, dimensionnality))
+- nature of automated task (visualisation / anomaly detection / prediction)
+- name of methods used
+- open challenges, bottlenecks
+
