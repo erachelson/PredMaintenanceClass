@@ -252,7 +252,7 @@ Let's try to give a general definition.\\
 \end{minipage} & \textbf{Enlarge your thesis!}
 \end{tabular}}
 \only<5>{\includegraphics[height=2.5cm]{img/people.jpg}\includegraphics[height=2.5cm]{img/words.jpg}\includegraphics[height=2.5cm]{img/DNA_microarray.pdf}}
-\only<6>{\includegraphics[height=2.5cm]{img/counterstrike2.jpg}~~\includegraphics[height=2.5cm]{img/poker2.jpg}}
+\only<6>{\includegraphics[height=2.5cm]{img/counterstrike2.jpg}~~\includegraphics[height=2.5cm]{img/cartes.png}}
 \end{center}
 \end{overlayarea}
 \begin{overlayarea}{\textwidth}{1cm}
@@ -264,7 +264,7 @@ Let's try to give a general definition.\\
 \only<5>{\href{http://clipart-library.com/white-people-cliparts.html}{People.jpg} / 
 \href{http://journals.sagepub.com/doi/pdf/10.1207/s15328023top1701_10}{Writing to Discuss: Use of a Clustering Technique} / 
 \href{https://commons.wikimedia.org/wiki/File:DNA_microarray.svg}{DNA microarray}}
-\only<6>{\href{https://en.wikipedia.org/wiki/File:Counter-Strike_Source_(box_art).jpg}{CS:source} / \href{https://commons.wikimedia.org/wiki/File:2006_WSOP_Main_Event_Table.jpg}{poker}}
+\only<6>{\href{https://en.wikipedia.org/wiki/File:Counter-Strike_Source_(box_art).jpg}{CS:source} / \href{https://commons.wikimedia.org/wiki/File:US_Navy_090620-N-2798F-033_Sailors_assigned_to_the_aircraft_carrier_USS_Harry_S._Truman_(CVN_75)_and_Carrier_Air_Wing_(CVW)_3_compete_in_a_Texas_Hold_%27Em_Poker_tournament_aboard_Harry_S._Truman.jpg}{poker}}
 \end{overlayarea}
 \end{frame}
 
