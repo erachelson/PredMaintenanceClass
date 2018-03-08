@@ -300,7 +300,7 @@ Ability to fit the training data:
 \begin{itemize}
 \item Regression: Mean Square Error
 \item Classification: Accuracy, TP, FP, ROC, AUC\ldots\\
-cf. {\href{https://en.wikipedia.org/wiki/Precision_and_recall}{this Wikipedia article}}
+cf. {\footnotesize \href{https://en.wikipedia.org/wiki/Precision_and_recall}{Wikipedia article}}
 \item Clustering: similarity scores
 \end{itemize}
 ~\\
